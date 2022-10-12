@@ -10,7 +10,6 @@ element.classList.add('adv-article')
  
  `
 
-   
 
 return element
 }
