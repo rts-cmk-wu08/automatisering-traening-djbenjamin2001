@@ -1,0 +1,5 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap);
+.adv-article{display:flex;flex-direction:column;font-family:"Montserrat",sans-serif}.adv-article__logo{width:2rem;margin-bottom:3rem}.adv-article__headline{margin-bottom:3rem}.adv-article__text{margin-top:auto;opacity:.5}
+.advantages{display:grid;grid-template-columns:repeat(3, 1fr);gap:1.5rem}
+.section{width:70.25rem;height:96px;margin:0 auto}.section__text{font-family:"Montserrat",sans-serif;font-size:3em;margin-top:5em}
+body{margin:0}.hero__img{width:100%;background-size:cover;position:relative}.hero__box{position:absolute;width:45rem;height:25rem;left:2rem;top:26rem;background-color:#fff;box-shadow:0px 4px 100px rgba(0,0,0,.1)}.hero__text{margin:2em}
